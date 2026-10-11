@@ -1,0 +1,2 @@
+# Intentionally minimal — only needed so Railway detects a Python service.
+# Served with: python3 -m http.server $PORT
